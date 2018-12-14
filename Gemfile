@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'cucumber'
+gem 'json'
+gem 'pry'
+gem 'pry-byebug'
+gem 'rspec'
+gem 'faker'
+gem 'cpf_faker'
+gem 'httparty'
+gem 'rake'
